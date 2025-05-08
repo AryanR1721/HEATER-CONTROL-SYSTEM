@@ -25,7 +25,7 @@ This project is a temperature-based state tracker using Arduino, a DHT22 sensor,
 ## Buzzer
 - Only activates in Overheat state (beeps every 2 seconds)
 
-## 🖥Files
+## Files
 - `TemperatureControlSystem.ino`: Main Arduino sketch
 - `wiring_diagram.png`: Circuit schematic
 - `flowchart.png`: Logical flow diagram
